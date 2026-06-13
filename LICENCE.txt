@@ -1,0 +1,53 @@
+# Blixt Developments Free Script Licence
+
+Copyright (c) 2026 Blixt Developments
+
+This script/resource is provided free of charge for use by the FiveM community.
+
+## Permissions
+
+You are allowed to:
+
+* Use this script/resource on your own FiveM server.
+* Modify the script/resource for personal or server-specific use.
+* Share modified versions, provided that proper credit to Blixt Developments remains included.
+* Learn from the code and adapt parts of it for your own non-commercial projects.
+
+## Conditions
+
+When using, modifying, or sharing this script/resource, you must:
+
+* Keep the original copyright notice and licence file included.
+* Credit Blixt Developments clearly in any redistributed version.
+* Not claim the original work as your own.
+* Not remove, hide, or alter author credits inside the resource files unless replacing them with equivalent visible credit.
+
+## Restrictions
+
+You are not allowed to:
+
+* Sell this script/resource.
+* Include this script/resource in any paid script pack, subscription, escrow package, Tebex package, or commercial bundle.
+* Reupload this script/resource as your own work.
+* Redistribute modified versions without crediting Blixt Developments.
+* Use this script/resource to scam, mislead, or impersonate the original author.
+
+## No Warranty
+
+This script/resource is provided “as is”, without warranty of any kind.
+
+Blixt Developments is not responsible for any issues, bugs, server damage, data loss, compatibility problems, or other damages caused by using, modifying, or installing this script/resource.
+
+You use this script/resource at your own risk.
+
+## Support
+
+Free support is not guaranteed.
+
+Updates, fixes, and support may be provided at the discretion of Blixt Developments.
+
+## Summary
+
+You can use it, edit it, and share it for free.
+
+You cannot sell it, claim it as yours, or remove credit.
