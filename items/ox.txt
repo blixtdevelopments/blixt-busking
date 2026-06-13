@@ -1,0 +1,45 @@
+['guitar'] = {
+    label = 'Guitar',
+    weight = 1500,
+    stack = false,
+    close = true,
+    description = 'Use to start busking.',
+    client = {
+        event = 'blixt-busking:useGuitar'
+    }
+},
+
+['busking_hat'] = {
+    label = 'Busking Hat',
+    weight = 250,
+    stack = false,
+    close = true,
+    description = 'Place it down so people can tip your performance.',
+    client = {
+        event = 'blixt-busking:useBuskingHat'
+    }
+},
+
+['busking_speaker'] = {
+    label = 'Busking Speaker',
+    weight = 2500,
+    stack = false,
+    close = true,
+    description = 'Place it down for a better busking setup.',
+    client = {
+        event = 'blixt-busking:usePlacementItem',
+        data = 'busking_speaker'
+    }
+},
+
+['busking_mic'] = {
+    label = 'Busking Mic Stand',
+    weight = 1500,
+    stack = false,
+    close = true,
+    description = 'Place it down to boost your busking setup.',
+    client = {
+        event = 'blixt-busking:usePlacementItem',
+        data = 'busking_mic'
+    }
+},
