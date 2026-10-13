@@ -7,7 +7,7 @@ name 'blixt-busking'
 version '1.2'
 
 shared_scripts {
-    '@ox_lib/init.lua',
+    'bridge/init.lua',
     'config.lua',
     'progression.lua',
     'shop.lua',
@@ -15,11 +15,15 @@ shared_scripts {
 }
 
 client_scripts {
-    'client.lua'
+    'bridge/qb_client.lua',
+    'bridge/qb_menu.lua',
+    'client.lua',
+    'bridge/qb_objects.lua'
 }
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
+    'bridge/qb_server.lua',
     'server.lua'
 }
 
